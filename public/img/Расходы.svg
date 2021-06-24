@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="448" height="328" viewBox="0 0 448 328">
+  <defs>
+    <filter id="Прямоугольник_12" x="0" y="0" width="448" height="328" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Расходы" transform="translate(24 16)">
+    <g transform="matrix(1, 0, 0, 1, -24, -16)" filter="url(#Прямоугольник_12)">
+      <rect id="Прямоугольник_12-2" data-name="Прямоугольник 12" width="400" height="280" rx="16" transform="translate(24 16)" fill="#0c0c0d" opacity="0.4"/>
+    </g>
+    <g id="Расходы-2" data-name="Расходы" transform="translate(-1238 -312)">
+      <text id="Цфо" transform="translate(1270 361)" fill="#666f80" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">ЦФО</tspan></text>
+    </g>
+    <path id="Контур_51" data-name="Контур 51" d="M3175,320l8,8-8,8" transform="translate(-2815 -288)" fill="none" stroke="#666f80" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

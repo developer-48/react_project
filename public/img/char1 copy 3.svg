@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="339.414" height="222.557" viewBox="0 0 339.414 222.557">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2f3035"/>
+      <stop offset="1" stop-color="#61e420"/>
+    </linearGradient>
+  </defs>
+  <g id="ЦФО" transform="translate(-790 -338)">
+    <text id="ЦФО" data-name="ЦФО" transform="translate(790 361)" fill="#666f80" font-size="24" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">ДОХОДЫ</tspan></text>
+    <g id="Сгруппировать_28" data-name="Сгруппировать 28" transform="translate(480)">
+      <text id="_1_984_760_" data-name="1 984 760 ₽" transform="translate(312 416)" fill="#fff" font-size="32" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">1 984 760 ₽</tspan></text>
+      <g id="Сгруппировать_24" data-name="Сгруппировать 24">
+        <text id="_45_" data-name="45%" transform="translate(632 410)" fill="#5fe61b" font-size="16" font-family="Montserrat-SemiBold, Montserrat" letter-spacing="0.02em" font-weight="600"><tspan x="-34.4" y="0">45%</tspan></text>
+        <path id="Контур_2" data-name="Контур 2" d="M431,152l4,4,4-4Z" transform="translate(1079 559) rotate(180)" fill="#61e420"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_29" data-name="Сгруппировать 29" transform="translate(480)">
+      <path id="Контур_19" data-name="Контур 19" d="M2367,536s16.08-24,32-24,34.666,11.5,64,8,34.281-20.54,64-24,54.552-.537,80-16,63.21-40,96-40" transform="translate(-2055 24)" fill="none" stroke="#61e420" stroke-width="2"/>
+      <path id="Контур_20" data-name="Контур 20" d="M2703,440c-32.79,0-79.024,26.947-96,40s-48.457,12.719-80,16-32,20-64,24-48.08-8-64-8-32,24-32,24h336Z" transform="translate(-2055 24)" opacity="0.3" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <path id="Контур_50" data-name="Контур 50" d="M3175,320l8,8-8,8" transform="translate(-2845 -314)" fill="none" stroke="#666f80" stroke-linecap="round" stroke-width="2"/>
+</svg>

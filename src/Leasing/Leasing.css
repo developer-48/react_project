@@ -1,0 +1,176 @@
+.Leasing__sidebar{
+    width: 400px;
+    height: calc(100vh - 150px);
+    padding-top: 20px;
+}
+.LeasingNavBar{
+    display: flex;
+    justify-content: space-between;
+    width: 67%;
+    margin-bottom: 30px;
+    margin-top: 10px;    
+}
+.LeasingNavBar__item{
+    width: 49%;
+    height: 40px;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    transition: 0.4s;
+    color: #e4e4e4;
+    text-align: center;
+    line-height: 38px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: 2px solid #a0a3ac;
+}
+.LeasingNavBar__selected{
+    background-color: #a0a3ac;
+    color: #1a1c22;
+}
+.Leasing__Infoblocks{
+    width: 100%;
+    height: 95%;
+    margin-top: 30px;
+    font-family: "Montserrat", sans-serif;
+}
+.Leasing__Infoblock-One, .Leasing__Infoblock-Two{
+    margin-bottom: 15px;
+}
+.Leasing__Infoblocks div{
+    height: 32%;
+    width: 100%;
+    padding: 13px 10px;
+    background-color: #1a1c22;
+    border-radius: 20px;
+}
+.Leasing__MainHome{
+    display: flex;
+}
+.LeasingInfoblock__title{
+    font-size: 16px;
+    color: #e4e4e4;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.LeasingInfoblock__subTitle{
+    font-size: 48px;
+    color: #e4e4e4;
+    text-align: center;
+    font-weight: 500;
+}
+.Leasing__Infoblock-One .LeasingInfoblock__subTitle{
+    color:#5FE61B;
+} 
+.Leasing__Infoblock-Two .LeasingInfoblock__subTitle{
+    color:#F14A4A;
+}
+.LeasingContent{
+    width: calc(100% - 400px);
+    height: calc(100vh - 150px);
+    padding-left:20px;
+}
+.LeasingTop{
+    display: flex;
+    justify-content: space-between;
+    height: 45%;
+
+}
+.LeasingTop__Left{
+    width: 67%;
+    height: 100%;
+    background-color: #1a1c22;
+    border-radius: 20px;
+}
+.LeasingOneGraf__Navbar, .LeasingTwoGraf__Navbar{
+    display: flex;
+    justify-content: space-evenly;
+    width: 85%;
+    margin: 10px auto 6px;
+}
+.LeasingOneGraf__Navbar-item, .LeasingTwoGraf__Navbar-item{
+    width: 50%;
+    height: 30px;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    color: #4e525ab2;
+    text-align: center;
+    font-weight: 600;
+    border-bottom: 2px solid #e6e6e600;
+}
+.LeasingGraf_selected{
+    color: #e4e4e4;
+    border-bottom: 2px solid #e4e4e4;
+}
+.LeasingTop__Right{
+    width: 31.4%;
+    height: 100%;
+    background-color: #1a1c22;
+    border-radius: 20px;
+}
+.LeasingGrafOne{
+    width: 98%;
+    height: 90%;
+}
+.LeasingTop__Right{
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    color: #e4e4e4;
+    padding: 40px 20px;
+}
+.Leasing__sircle{
+    display: flex;
+    align-items: center;
+    width: 140px;
+    height: 140px;
+    margin: auto;
+    border-radius: 50%;
+    line-height: 155px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 16%;
+    color: #e6e6e6;
+    background-size: 45%, 100%;
+  }
+  .Leasing__sircle div{
+    text-align: center;
+    margin: 0 auto;
+  }
+  .LeasingCircle__remainder{
+    background: url(../img/Layer\ 2.svg) no-repeat center, radial-gradient(at 50% 50%, #306d1cc2, #090f079f);
+    border: 2px solid #77ff33;
+  }
+  .LeasingCircle__payments{
+    background: url(../img/Layer\ 2.svg) no-repeat center, radial-gradient(at 50% 50%, #6d1c1cc2, #0f07079f);
+    border: 2px solid #ff3333;
+  }
+  .LeasingRight-itemOne, .LeasingRight-itemTwo{
+    width: 50%;
+  }
+  .LeasingRight__title, .LeasingRight__subtitle{
+    font-size: 22px;
+    width: 100%;
+    height:35px;
+    text-align: center;
+  }
+  .LeasingSubTitle__remainder{
+      color: #5FE61B;
+  }
+  .LeasingSubTitle__payments{
+    color: #F14A4A;
+}
+.LeasingBottom{
+    width: 100%;
+    height: 45%;
+    background-color: #1a1c22;
+    border-radius: 20px;
+    margin-top: 23px;
+    padding-top: 5px;
+}
+#LeasingGrafTwo{
+    width: 98%;
+    height: 86%;
+    
+}

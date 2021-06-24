@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="338.308" height="222.449" viewBox="0 0 338.308 222.449">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2f3035"/>
+      <stop offset="1" stop-color="#61e420"/>
+    </linearGradient>
+  </defs>
+  <g id="Финансы" transform="translate(-311.106 -338)" opacity="0.32">
+    <text id="Финансы-2" data-name="БДДС" transform="translate(312 361)" fill="#666f80" font-size="24" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">AKЦИИ</tspan></text>
+    <g id="Сгруппировать_25" data-name="Сгруппировать 25">
+      <text id="_432_654_840_" data-name="432 654 840 ₽" transform="translate(312 416)" fill="#fff" font-size="32" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">432 654 840 ₽</tspan></text>
+      <g id="Сгруппировать_24" data-name="Сгруппировать 24">
+        <text id="_17_" data-name="17%" transform="translate(632 410)" fill="#5fe61b" font-size="16" font-family="Montserrat-SemiBold, Montserrat" letter-spacing="0.02em" font-weight="600"><tspan x="-30.304" y="0">17%</tspan></text>
+        <path id="Контур_2" data-name="Контур 2" d="M431,152l4,4,4-4Z" transform="translate(1079 559) rotate(180)" fill="#61e420"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_26" data-name="Сгруппировать 26">
+      <path id="Контур_19" data-name="Контур 19" d="M2367,536s16.08-32,32-32,46.9,16,64,16,38.38-40.35,64-40,55.333,8,80,8,63.21-48,96-48" transform="translate(-2055 24)" fill="none" stroke="#61e420" stroke-width="2"/>
+      <path id="Контур_20" data-name="Контур 20" d="M2703,440c-32.79,0-71.333,48-96,48s-54.38-7.65-80-8-46.9,40-64,40-48.08-16-64-16-32,32-32,32h336Z" transform="translate(-2055 24)" opacity="0.3" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <path id="Контур_49" data-name="Контур 49" d="M2695,320l8,8-8,8" transform="translate(-2366.106 -314)" fill="none" stroke="#666f80" stroke-linecap="round" stroke-width="2"/>
+</svg>

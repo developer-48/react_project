@@ -1,0 +1,275 @@
+#sel{
+    width: 100px;
+    height: 40px;
+    font-size: 30px;
+    font-weight: 300;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    margin-left: 65px;
+    border:  none;
+    outline: none;
+    -moz-appearance: none;
+    position: absolute;
+    top: 13%;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    cursor: pointer;
+   
+  }
+  option{
+    color:#fff;
+    background-color:#202227;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Chrome/Safari/Opera */
+    -khtml-user-select: none;    /* Konqueror */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* Internet Explorer/Edge */
+    user-select: none;
+    
+  }
+  .income
+  .span, .span{
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+  }
+  .top_title{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+  
+  }
+  #top__title-left, #top__title-right{
+    font-size: 38px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 15px;
+    display: flex;
+    
+  }
+  #top__title-left i, #top__title-right i{
+    font-size: 25px;
+    display: block;
+    margin-left: 8px;
+  }
+  #top__title-left i{
+    margin-top: 20px;
+  }
+  #top__title-right i{  
+    margin-top: 10px;
+  }
+  #top__title-left{  
+    color:#5bd81c;  
+  }
+  #top__title-right{  
+    color: #ff3a33;  
+  }
+  .top div, .down div{
+    width: 45%;
+    height: 35vh;
+    background-color: #1a1c22;
+    border-radius: 20px;  
+  }
+  .top, .down{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+  }
+  .top{
+    margin-bottom: 40px;
+  }
+  
+  #chartdiv_right-top, #chartdiv_left-top, #chartdiv_right-down, #chartdiv_left-down{
+    width: 98%;
+    height: 90%;
+    margin-top: 2.5%;
+    color: #fff !important;
+  }
+  .onGraf{
+      margin: auto;
+      display: flex;
+      width: 10%;
+      justify-content: space-between;
+      position: absolute;
+      top: 13%;
+      right: calc(50% - 5.16%);
+  }
+  .income, .expense{
+      display: flex;    
+      justify-content: space-between;
+      width: 45%;
+      font-size: 16px;
+      color: #fff;
+      font-family: 'Montserrat', sans-serif;
+  }
+  .expense{
+    width: 48%;
+  }
+  #income__btn, #expense__btn{
+      width: 15px;
+      height: 15px;
+      margin-top: 2.6px;
+      border-radius: 50%;
+      cursor: pointer;
+      outline: none;
+      border: none;    
+  }
+  #income__btn:hover, #expense__btn:hover{
+    background-color: #4b4c4e
+  }
+  #income__btn{    
+      background-color:#5bd81c;
+  }
+  #expense__btn{    
+      background-color:#ff3a33;
+  }
+  #i, #e{
+    display: none;
+  }
+  .OnBtn{
+    background-color: #4b4c4e !important;
+  }
+  
+  
+  #Bdds{
+    padding-top: 2px;
+  }
+  .BDDSSV__selects{
+    height: 20px;
+    display: flex;
+    align-items: center;
+  }
+  .BDDSSV-selects__month{
+    margin-left: 25px !important;
+  }
+  .BDDSSV__main{
+    width: 100%;
+    padding: 40px;
+    padding-top: 20px;
+  }
+  .BDDSSV__content{
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 20px;
+    width: 98%;
+    height: 74vh;
+    background-color: #1a1c22;
+    padding:20px;
+  }
+  .BDDSSV__contentParent{
+    width: 98%;
+    height: calc(95% - 20px);
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .BDDSSV__table{
+    width: 100%;
+    height: 87%;
+    background-color: #1a1c22;
+    border-radius: 20px;
+    overflow-y: auto;
+  }
+  .BDDSSV__table-bottom{
+    margin-right: 8px;
+    
+  }
+  .BDDSSV-Tab__line{
+    width: 98%;
+    margin: auto;
+    color: #e6e6e6;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #2e2f3360;
+  }
+  .BDDSSV-Tab__line:hover{
+    border-bottom: 1px solid #d1d3df;
+  }
+  
+  .BDDSSV__table_top{
+    margin-right: 8px;
+  }
+  .BDDSSV__tab{
+    width: 98%;
+    margin: auto;
+    color: #e6e6e6;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    color: #bd4122;
+  }
+  .BDDSSV__tab td{
+    border-bottom: 1px solid #2e2f3360;
+    height: 30px;
+  }
+  .BDDSSV-Tab__line div{
+    padding: 7px 5px;
+  }
+  .BDDSSV__income{
+    color: #1e611b;
+  }
+  .BDDSSV__expense{
+    color: #a33131;
+  }
+  .BDDSSV-line__Month .BDDSSV__denotation{
+    padding-left: 30px;
+    background: url('../img/MonthArrow.svg') no-repeat 10px;
+    background-size: 16px;
+    color: #5a667c;
+  }
+  .BDDSSV-line__Article .BDDSSV__denotation{
+    padding-left: 80px;
+    background: url('../img/ArticleArrow.svg') no-repeat 60px;
+    background-size: 16px;
+    color: #687791;
+  }
+  .BDDSSV-line__UndArticle .BDDSSV__denotation{
+    padding-left: 130px;
+    background: url('../img/UndArticleArrow.svg') no-repeat 110px;
+    background-size: 16px;
+    color: #98abcc;
+  }
+  .BDDSSV-line__SubArticle .BDDSSV__denotation{
+    padding-left: 165px;
+    font-weight: 300;
+    color: #e4edfc;
+  }
+  .BDDSSV__denotation_hint, .BDDSSV__denotation{
+    width: 76%;
+  }
+  .BDDSSV__denotation{
+    cursor: pointer;
+  }
+  .BDDSSV__income_hint, .BDDSSV__income, .BDDSSV__expense_hint, .BDDSSV__expense{
+    width: 12%;
+    text-align: center;
+  }
+  .close{
+    display: none;
+  }
+  .BDDSSV__tabResults{
+    width: 76%;
+    text-align: left;
+    font-size: 30px;
+  }
+  .BDDSSV-Tab__bottomLine{
+    border: none;
+    width: 98%;
+    margin: auto;
+    border-top: 1px solid #2e2f3360;
+  }
+  .BDDSSV__table-data{
+    cursor: pointer;
+  }
+  .BDDSSV__table-data:hover{
+    border-bottom: 1px solid #e6e6e6;
+  }

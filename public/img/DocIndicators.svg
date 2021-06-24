@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="280" viewBox="0 0 384 280">
+  <defs>
+    <filter id="Прямоугольник_12" x="0" y="0" width="384" height="280" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Компонент_7_1" data-name="Компонент 7 – 1" transform="translate(24 16)">
+    <g id="Акции" transform="translate(-792 -673)">
+      <g transform="matrix(1, 0, 0, 1, 768, 657)" filter="url(#Прямоугольник_12)">
+        <rect id="Прямоугольник_12-2" data-name="Прямоугольник 12" width="336" height="232" rx="16" transform="translate(24 16)" fill="none" opacity="0.4"/>
+      </g>
+      <g id="Акции-2" data-name="Акции">
+        <text id="работы_всех_врачей" data-name="работы всех врачей" transform="translate(792 705)" fill="#666f80" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">РАБОТЫ ВСЕХ ВРАЧЕЙ</tspan></text>
+        <text id="показатели" transform="translate(793 685)" fill="#666f80" font-size="12" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">ПОКАЗАТЕЛИ</tspan></text>
+      </g>
+      <path id="Контур_53" data-name="Контур 53" d="M3175,320l8,8-8,8" transform="translate(-2055 368)" fill="none" stroke="#666f80" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <rect id="Прямоугольник_239" data-name="Прямоугольник 239" width="88" height="52" rx="8" transform="translate(0 179)" fill="#666f80" opacity="0.05"/>
+    <rect id="Прямоугольник_240" data-name="Прямоугольник 240" width="88" height="52" rx="8" transform="translate(0 117)" fill="#666f80" opacity="0.05"/>
+    <rect id="Прямоугольник_241" data-name="Прямоугольник 241" width="88" height="52" rx="8" transform="translate(0 55)" fill="#666f80" opacity="0.05"/>
+    <rect id="Прямоугольник_242" data-name="Прямоугольник 242" width="128" height="80" rx="8" transform="translate(96 55)" fill="#666f80" opacity="0.05"/>
+    <rect id="Прямоугольник_244" data-name="Прямоугольник 244" width="104" height="80" rx="8" transform="translate(232 55)" fill="#666f80" opacity="0.05"/>
+    <rect id="Прямоугольник_243" data-name="Прямоугольник 243" width="240" height="88" rx="8" transform="translate(96 143)" fill="#666f80" opacity="0.05"/>
+    <rect id="Прямоугольник_245" data-name="Прямоугольник 245" width="72" height="4" rx="2" transform="translate(8 63)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_254" data-name="Прямоугольник 254" width="24" height="8" rx="4" transform="translate(240 67)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_257" data-name="Прямоугольник 257" width="24" height="6" rx="3" transform="translate(112 61)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_260" data-name="Прямоугольник 260" width="24" height="6" rx="3" transform="translate(152 148)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_258" data-name="Прямоугольник 258" width="24" height="6" rx="3" transform="translate(148 61)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_261" data-name="Прямоугольник 261" width="24" height="6" rx="3" transform="translate(256 148)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_259" data-name="Прямоугольник 259" width="24" height="6" rx="3" transform="translate(184 61)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_255" data-name="Прямоугольник 255" width="24" height="8" rx="4" transform="translate(272 67)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_256" data-name="Прямоугольник 256" width="24" height="8" rx="4" transform="translate(304 67)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_250" data-name="Прямоугольник 250" width="72" height="4" rx="2" transform="translate(8 125)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_253" data-name="Прямоугольник 253" width="72" height="4" rx="2" transform="translate(8 187)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_246" data-name="Прямоугольник 246" width="50" height="8" rx="4" transform="translate(19 79)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_249" data-name="Прямоугольник 249" width="50" height="8" rx="4" transform="translate(19 141)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_252" data-name="Прямоугольник 252" width="50" height="8" rx="4" transform="translate(19 203)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_247" data-name="Прямоугольник 247" width="64" height="4" rx="2" transform="translate(12 89)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_248" data-name="Прямоугольник 248" width="64" height="4" rx="2" transform="translate(12 151)" fill="#666f80" opacity="0.2"/>
+    <rect id="Прямоугольник_251" data-name="Прямоугольник 251" width="64" height="4" rx="2" transform="translate(12 213)" fill="#666f80" opacity="0.2"/>
+    <circle id="Эллипс_47" data-name="Эллипс 47" cx="12" cy="12" r="12" transform="translate(240 87)" fill="#666f80" opacity="0.1"/>
+    <circle id="Эллипс_48" data-name="Эллипс 48" cx="12" cy="12" r="12" transform="translate(272 87)" fill="#666f80" opacity="0.1"/>
+    <circle id="Эллипс_49" data-name="Эллипс 49" cx="12" cy="12" r="12" transform="translate(304 87)" fill="#666f80" opacity="0.1"/>
+    <g id="Сгруппировать_78" data-name="Сгруппировать 78" transform="translate(104 166.5)" opacity="0.8">
+      <line id="Линия_1" data-name="Линия 1" x1="224" transform="translate(0 0.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_10" data-name="Линия 10" x1="224" transform="translate(0 -7.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_2" data-name="Линия 2" x1="224" transform="translate(0 8.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_3" data-name="Линия 3" x2="224" transform="translate(0 18.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_4" data-name="Линия 4" x1="224" transform="translate(0 27.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_5" data-name="Линия 5" x2="224" transform="translate(0 37.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_6" data-name="Линия 6" x1="224" transform="translate(0 47.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_7" data-name="Линия 7" x2="224" transform="translate(0 56.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+    </g>
+    <g id="Сгруппировать_77" data-name="Сгруппировать 77" transform="translate(104 11.015)">
+      <path id="Прямоугольник_161" data-name="Прямоугольник 161" d="M4,0H6a4,4,0,0,1,4,4v6a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(0 105.985)" fill="#78a1bd"/>
+      <path id="Прямоугольник_162" data-name="Прямоугольник 162" d="M4,0H6a4,4,0,0,1,4,4V53a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(13 62.985)" fill="#1b7dbf"/>
+      <path id="Прямоугольник_163" data-name="Прямоугольник 163" d="M4,0H6a4,4,0,0,1,4,4V32a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(26 83.985)" fill="#6c98b6"/>
+      <path id="Прямоугольник_164" data-name="Прямоугольник 164" d="M4,0H6a4,4,0,0,1,4,4V40a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(39 75.985)" fill="#4a8cb8"/>
+      <path id="Прямоугольник_165" data-name="Прямоугольник 165" d="M4,0H5A4,4,0,0,1,9,4V6A0,0,0,0,1,9,6H0A0,0,0,0,1,0,6V4A4,4,0,0,1,4,0Z" transform="translate(52 109.985)" fill="#87abc3"/>
+      <path id="Прямоугольник_166" data-name="Прямоугольник 166" d="M4,0H6a4,4,0,0,1,4,4v6a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(63 105.985)" fill="#709fbe"/>
+      <path id="Прямоугольник_167" data-name="Прямоугольник 167" d="M4,0H6a4,4,0,0,1,4,4V41a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(76 74.985)" fill="#4286b4"/>
+      <path id="Прямоугольник_168" data-name="Прямоугольник 168" d="M4,0H6a4,4,0,0,1,4,4V32a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(89 83.985)" fill="#5f93b6"/>
+      <path id="Прямоугольник_169" data-name="Прямоугольник 169" d="M4,0H6a4,4,0,0,1,4,4V56a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(102 59.985)" fill="#1b7dbf"/>
+    </g>
+    <g id="Сгруппировать_79" data-name="Сгруппировать 79" transform="translate(104 159)">
+      <path id="Контур_58" data-name="Контур 58" d="M2559,3541s26.03-29.49,40-29.578,18.854,22,32,21.578,17.569-40,32-40,15.676,18.426,40,18.422,37.979-31.5,76.879-31.244" transform="translate(-2559 -3477)" fill="none" stroke="#1b7dbf" stroke-width="2"/>
+      <circle id="Эллипс_29" data-name="Эллипс 29" cx="4" cy="4" r="4" transform="translate(36 31)" fill="#1b7dbf"/>
+      <circle id="Эллипс_30" data-name="Эллипс 30" cx="4" cy="4" r="4" transform="translate(68 52)" fill="#1b7dbf"/>
+      <circle id="Эллипс_31" data-name="Эллипс 31" cx="4" cy="4" r="4" transform="translate(99 12)" fill="#1b7dbf"/>
+      <circle id="Эллипс_32" data-name="Эллипс 32" cx="4" cy="4" r="4" transform="translate(139 30)" fill="#1b7dbf"/>
+      <circle id="Эллипс_33" data-name="Эллипс 33" cx="4" cy="4" r="4" transform="translate(217 -1)" fill="#1b7dbf"/>
+    </g>
+  </g>
+</svg>

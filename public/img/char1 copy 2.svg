@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="339.414" height="222.803" viewBox="0 0 339.414 222.803">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2f3035"/>
+      <stop offset="1" stop-color="#ff3a33"/>
+    </linearGradient>
+  </defs>
+  <g id="Расходы" transform="translate(-1270 -338)">
+    <text id="Расходы-2" data-name="Лизинг" transform="translate(1270 361)" fill="#666f80" font-size="24" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">РАСХОДЫ</tspan></text>
+    <g id="Расходы-3" data-name="Расходы">
+      <g id="Сгруппировать_31" data-name="Сгруппировать 31" transform="translate(960)">
+        <text id="_3_153_670_" data-name="3 153 670 ₽" transform="translate(312 416)" fill="#fff" font-size="32" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">3 153 670 ₽</tspan></text>
+        <g id="Сгруппировать_24" data-name="Сгруппировать 24">
+          <text id="_23_" data-name="23%" transform="translate(632 410)" fill="#ff3a33" font-size="16" font-family="Montserrat-SemiBold, Montserrat" letter-spacing="0.02em" font-weight="600"><tspan x="-32.864" y="0">23%</tspan></text>
+          <path id="Контур_2" data-name="Контур 2" d="M431,152l4,4,4-4Z" transform="translate(209 251)" fill="#ff3a33"/>
+        </g>
+      </g>
+      <g id="Сгруппировать_30" data-name="Сгруппировать 30" transform="translate(960)">
+        <path id="Контур_20" data-name="Контур 20" d="M2703,464c-32.79,0-96.22,48-120,48s-39.558-64-56-64-31.485,80-56,80-23.705-16-48-16-56,24-56,24h336Z" transform="translate(-2055 24)" opacity="0.3" fill="url(#linear-gradient)"/>
+        <path id="Контур_19" data-name="Контур 19" d="M2367,536s32.289-24,56-24,23.542,16,48,16,40-80,56-80,33.681,64,56,64,87.21-48,120-48" transform="translate(-2055 24)" fill="none" stroke="#ff3a33" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+  <path id="Контур_51" data-name="Контур 51" d="M3175,320l8,8-8,8" transform="translate(-2845 -314)" fill="none" stroke="#666f80" stroke-linecap="round" stroke-width="2"/>
+</svg>

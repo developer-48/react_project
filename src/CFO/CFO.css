@@ -1,0 +1,263 @@
+.selects{
+    margin-left: 0px;
+    width: auto;
+}
+.dashContent{
+    padding: 8px 20px ;
+    height: calc(100vh - 150px);
+}
+.DashGrafOne{
+    border-radius: 15px;
+    padding: 10px;
+    width: 74%;
+    height: 96%;
+    background-color: #1a1c22;
+}
+.CFODashGrafTitle{
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    color: #4e525ab2;
+    text-align: center;
+    height: 6%;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-bottom: 2px solid #e6e6e600;
+}
+.dashtop{
+    justify-content: space-between;
+    border-radius: 15px;
+    padding: 10px;
+    width: 74%;
+    height: 96%;
+    margin-right: 16px;
+    background-color: #1a1c22;
+    padding-top: 10px;
+}
+.CFO__content{
+    height: 90%;
+    display: flex;
+    
+}
+#chartGrafOne, #chartGrafTwo, #chartGrafThree{
+    width: 98%;
+    height: 90%;
+}
+.infoblock{
+    width: 25%;
+}
+.dashtop_title_selected{
+    border-bottom: 2px solid #e6e6e6b6;
+    color: #e6e6e6b6;
+}
+.dashTop__title{
+    display: flex;
+    justify-content: space-evenly;
+    width: 95%;
+    margin: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;    
+}
+.dashTop__title div{
+    width: 45%;
+    height: 40px;
+    cursor: pointer;
+}
+.DashGrafThree, .DashInfoBlock{
+    width: 100%;
+    height: 47%;
+}
+.DashInfoBlock{
+    margin-top: 14px;
+}
+.DashInfoBlock__title{
+    margin-top: 20px;
+    font-size: 22px;
+    color: #e6e6e6;
+}
+.DashInfoBlock__top, .DashInfoBlock__bottom{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
+.DashInfoBlock__top{
+    border-bottom: 2px solid #25262781;
+    height: 40%;
+}
+.DashInfoBlock__bottom{
+    height: 40%;
+}
+.bottom__right{
+    border-right: 2px solid #25262781;
+}
+.bottom__right, .bottom__left{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.DashInfoBlock__cont-title{
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    color: #666f80;
+    text-align: center;
+    width: 100%;
+    height: 50%;
+    margin: auto;
+    margin-top: 18px;
+}
+.DashInfoBlock__top .DashInfoBlock__cont-title{
+    margin-bottom: 10%;
+}
+.DashInfoBlock__cont-subtitle{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #e6e6e6;
+    text-align: center;
+    width: 100%;
+    height: 60%;
+    margin: auto;
+}
+
+.Dash__CFOSelect{
+    width: auto;
+    background: none;
+}
+.sidebar{
+    width: 440px;
+    height: calc(100% - 100px);
+    position: fixed;
+    top: 100px;
+    padding-top: 20px;
+    border-right: 6px solid #1a1c22;
+}
+.stewards{
+    width: 400px;
+    height: 88%;
+    color: #e6e6e6;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    margin-bottom: 24px;
+    padding: 20px;
+    background-color: #1a1c22; 
+    border-radius: 10px;
+  }
+  .stewards__title{
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .stewards__list{
+    font-size: 20px;
+    font-weight: 500;
+    overflow-y: auto;
+    height: 90%;
+    width: 100%;
+  }
+  .steward{
+    min-height: 40px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    line-height: 40px;
+    padding-left: 10px;
+    width: 98%;
+    transition: 0.37s;
+  }
+  .CFOSV__top{
+      width: 100%;
+      height: 41vh;
+      display: flex;
+      justify-content: space-between;
+  }
+  #CFOSVGrafOne{
+      height: 97%;
+      width: 99%;
+      margin-top: 20px;
+  }
+  .CFO__content-topLeft{
+      width: 64%;
+      height: 100%;
+      padding: 10px;
+      border-radius: 20px;
+      background-color: #1a1c22;
+  }
+  .CFOSVcontent{
+    font-family: "Montserrat", sans-serif;
+    color: #e6e6e6;
+  }
+  .CFOSV__infoblock{
+      width: 34%;
+      height: 100%;      
+      background-color: #1a1c22;
+      border-radius: 20px;
+      padding: 40px;
+  }
+  .CFOSVInfoBlock__title{
+    font-size: 22px;
+    color: #e6e6e6;
+    margin-bottom:30px;
+    text-align: center;
+    height: 6%;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-bottom: 2px solid #e6e6e600;
+  }
+  .CFOSVInfoBlock__top, .CFOSVInfoBlock__bottom{
+    width: 90%;
+    height: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+  }
+  .CFOSVInfoBlock__top{
+    border-bottom: 2px solid #25262781; 
+  }
+  .CFOSVInfoBlock__right{
+    border-right: 2px solid #25262781;
+    }
+  .CFOSVInfoBlock__right, .CFOSVInfoBlock__left{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+  .CFOSVInfoBlock__cont-title{
+    font-size: 17px;
+    color: #666f80;
+    text-align: center;
+    width: 100%;
+    height: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  .CFOSVInfoBlock__cont-subtitle{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #e6e6e6;
+    text-align: center;
+    width: 100%;
+    height: 50%;
+    margin: auto;
+}
+.CFOSV__bottom{
+    width: 100%;
+    height: 40vh;
+    padding-top: 20px;
+    background-color: #1a1c22;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#CFOSVGrafTwo{
+    width: 98%;
+    height: 97%;
+}
+.displayNone{
+    display: none;
+  }

@@ -1,0 +1,425 @@
+.SpecMedLeasingDash__content{
+    width: 100%;
+    height: calc(97vh - 170px);
+    font-family: 'Montserrat', sans-serif;
+}
+.SpecMedLeasingDashTop{
+    width: 100%;
+    height: 38%;
+    display: flex;
+    justify-content: space-between;
+}
+.SpecMedLeasingDashTop__left{
+    width: 25.5%;
+    height: 100%;
+    background-color: #1a1c22;
+    border-radius: 20px;
+    padding: 15px 20px;
+}
+.SpecMedLeasingDashTop__right{
+    width: 73%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.SpecMedLeasingDashTop__right-NavBar{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 20%; 
+}
+.SpecMedLeasingDashNavBar__item{
+    width: 49%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    transition: 0.4s;
+    color: #e4e4e4;
+    font-weight: 600;
+    border-radius: 15px;
+    background-color: #666f7fc7;
+    opacity: 0.3;
+
+}
+.SpecMedLeasingDashNavBar__selected{
+    background-color: #666f7f;
+    opacity: 1;
+}
+.SpecMedLeasingDashTop__right-infoblock{
+    width: 100%;
+    height: 73%;
+    display: flex;
+    justify-content: space-between;
+}
+.SpecMedLeasingDashTop__right-infoblock-item{
+    width: calc(94% / 4);
+    background-color: #1a1c22;
+    border-radius: 20px;
+    height: 100%;
+    padding: 25px 30px;
+    display: flex;
+    flex-direction: column;
+}
+.SpecMedLeasingDashTop__right-title{
+    font-size: 16px;
+    font-weight: 600;
+    height: 60px;
+    color: #ececec;
+    text-transform: uppercase;
+    text-align: center;
+}
+.SpecMedLeasingDashTop__right-subtitle{
+    font-size: 40px;
+    font-weight: 600;
+    color: #748CB9;
+    text-align: center;
+}
+
+.SpecMedLeasingDashBottom{
+    width: 100%;
+    height: 58%;
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.SpecMedLeasingDashBottom__left{
+    width: 25.5%;
+    height: 100%;
+    background-color: #1a1c22;
+    border-radius: 20px;
+}
+.SpecMedLeasingDash__contractList{
+    width: 100%;
+    height: 100%;
+    color: #e6e6e6;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    margin-bottom: 24px;
+    padding: 20px;
+  }
+  .SpecMedLeasingDash__contractList-title{
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .SpecMedLeasingDash__contractList-list{
+    font-size: 18px;
+    font-weight: 500;
+    overflow-y: auto;
+    height: 83%;
+    width: 100%;
+  }
+  .SpecMedLeasingDash__contractList-line{
+    min-height: 40px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    line-height: 40px;
+    padding-left: 10px;
+    width: 98%;
+    transition: background-color 500ms linear;
+  }
+.SpecMedLeasingDashBottom__right{
+    width: 73%;
+    height: 100%;
+    background-color: #1a1c22;
+    border-radius: 20px;
+    padding: 20px 15px;
+}
+#SpecMedLeasingDashGrafOne{
+    width: 99%;
+    height: 97%
+}
+#SpecMedLeasingDashGrafTwo{
+    width: 99%;
+    height: 97%
+}
+
+.SpecMedLeasingNavbar a {
+    text-decoration: none;
+    list-style:none;
+    color: #fff;  
+  }
+.SpecMedLeasingNavbar{
+    display: flex;
+    position: fixed;
+    top:  calc(100% - 32px);
+    left: 3.2%;
+    font-family: 'Montserrat';
+    font-size: 15px;
+  }
+  .SpecMedLeasingNavbar__item{
+    background-color: #262a33;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    width: 100px;
+    height: 30px;
+    margin-right: 20px;
+    text-align: center;
+    padding-top: 5px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+    transition: 0.5s;
+  }
+  .navbarActive{
+    transform: scale(1.2);
+    transition: 0.5s;
+  }
+  .navbarActive a {
+    font-weight: 600;
+  }
+
+
+
+  .SpecMedLeasingSV__main{
+    width: 100%;
+    padding: 40px;
+    padding-top: 20px;
+  }
+  .SpecMedLeasingSV__content{
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 20px;
+    width: 98%;
+    height: 74vh;
+    background-color: #1a1c22;
+    padding:20px;
+  }
+  .SpecMedLeasingSV__contentParent{
+    width: 98%;
+    height: calc(95% - 20px);
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .SpecMedLeasingSV__table{
+    width: 100%;
+    height: 80%;
+    background-color: #1a1c22;
+    border-radius: 20px;
+    overflow-y: scroll;
+  }
+  .SpecMedLeasingSV__table-bottom{
+    margin-right: 8px;
+    
+  }
+  .SpecMedLeasingSV-Tab__line{
+    width: 98%;
+    margin: auto;
+    color: #e6e6e6;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #2e2f3360;
+  }
+  .SpecMedLeasingSV__table  .SpecMedLeasingSV-Tab__line:hover{
+    border-bottom: 1px solid #d1d3df;
+    cursor: pointer;
+  }
+  
+  .SpecMedLeasingSV__table_top{
+    margin-right: 8px;
+  }
+  .SpecMedLeasingSV__tab{
+    width: 98%;
+    margin: auto;
+    color: #e6e6e6;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    color: #bd4122;
+  }
+  .SpecMedLeasingSV__tab td{
+    border-bottom: 1px solid #2e2f3360;
+    height: 30px;
+  }
+  .SpecMedLeasingSV-Tab__line div{
+    padding: 7px 5px;
+  }
+  .SpecMedLeasingSV-line__Month .SpecMedLeasingSV__denotation{
+    padding-left: 30px;
+    background: url('../img/MonthArrow.svg') no-repeat 10px;
+    background-size: 16px;
+    color: #5a667c;
+  }
+  .SpecMedLeasingSV-line__Article .SpecMedLeasingSV__denotation{
+    padding-left: 80px;
+    color: #A0AABE;
+  }
+  .SpecMedLeasingSV__denotation_hint, .SpecMedLeasingSV__denotation{
+    width: 22%;
+  }
+  .SpecMedLeasingSV__denotation{
+    cursor: pointer;
+  }
+  .SpecMedLeasingSV__KMC_hint, .SpecMedLeasingSV__OMS_hint, .SpecMedLeasingSV__results_hint{
+    width: calc(78% / 3);
+    text-align: center;
+  }
+  .SpecMedLeasingSV__paid_hint, .SpecMedLeasingSV__paid, .SpecMedLeasingSV__indebtedness_hint, .SpecMedLeasingSV__indebtedness{
+    width: 13%;
+    text-align: center;    
+  }
+ .SpecMedLeasingSV__paid, .SpecMedLeasingSV__indebtedness{
+    color: #A0AABE;
+  }
+  .SpecMedLeasingSV__close{
+    display: none;
+  }
+  .SpecMedLeasingSV__paid__Total{
+    color: #1e611b;
+  }
+  .SpecMedLeasingSV__indebtedness__Total{
+    color: #a33131;
+  }
+  .SpecMedLeasingSV__tabResults{
+    width: 22%;
+    text-align: left;
+    font-size: 30px;
+  }
+  .SpecMedLeasingSV-Tab__bottomLine{
+    border: none;
+    width: 98%;
+    margin: auto;
+    border-top: 1px solid #2e2f3360;
+  }
+
+
+
+
+  .SpecMedLeasingTerms__content{
+    width: 98%;
+    height: calc(97vh - 170px);
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+}
+.SpecMedLeasingTermsTop{
+    width: 100%;
+    height: 38%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.SpecMedLeasingTermsTop__NavBar{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 20%; 
+}
+.SpecMedLeasingTermsTopNavBar__item{
+    width: 49.5%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    transition: 0.4s;
+    color: #e4e4e4;
+    font-weight: 600;
+    border-radius: 15px;
+    background-color: #666f7fc7;
+    opacity: 0.3;
+
+}
+.SpecMedLeasingTermsTopNavBar__selected{
+    background-color: #666f7f;
+    opacity: 1;
+}
+.SpecMedLeasingTermsTop__infoblock{
+    width: 100%;
+    height: 73%;
+    display: flex;
+    justify-content: space-between;
+}
+.SpecMedLeasingTermsTop__infoblock-item{
+    width: calc(97% / 4);
+    background-color: #1a1c22;
+    border-radius: 20px;
+    height: 100%;
+    padding: 25px 30px;
+    display: flex;
+    flex-direction: column;
+}
+.SpecMedLeasingTermsTop__title{
+    font-size: 16px;
+    font-weight: 600;
+    height: 60px;
+    color: #ececec;
+    text-transform: uppercase;
+    text-align: center;
+}
+.SpecMedLeasingTermsTop__subtitle{
+    font-size: 40px;
+    font-weight: 600;
+    color: #748CB9;
+    text-align: center;
+}
+
+.SpecMedLeasingTermsBottom{
+    width: 100%;
+    height: 59%;
+    display: flex;
+    margin-top: 20px;
+    background-color: #1a1c22;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+
+.SpecMedLeasingTermsBottom__contractList{
+  width: 62%;
+  padding-right: 2%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 100%;
+  overflow-y: auto;
+}
+.SpecMedLeasingTermsGraf{
+  width: 38%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+.SpecMedLeasingTerms__contractList-line{
+  width: 49%;
+  height: 21%;
+  background-color: #0c0c0d;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  color: #fff;
+  padding: 2%;
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: 500;
+}
+.SpecMedLeasingTerms__contractList-term{
+  font-size: 15px;
+  font-weight: 400;
+  color: #666F80;
+  margin-top: 2px;
+}
+.SpecMedLeasingTerms__contractList-article{
+  display: flex;
+  align-items: center;
+}
+.SpecMedLeasingTerms__contractList-articleCircle{
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  margin-right: 5px;
+}
+.SpecmedLeasingTerms__articleSelected{
+  opacity: 0.59;
+}

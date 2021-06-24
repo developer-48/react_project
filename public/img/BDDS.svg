@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="266" viewBox="0 0 384 266">
+  <defs>
+    <filter id="Прямоугольник_12" x="0" y="0" width="384" height="266" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2f3035"/>
+      <stop offset="1" stop-color="#ff3a33"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2f3035"/>
+      <stop offset="1" stop-color="#61e420"/>
+    </linearGradient>
+  </defs>
+  <g id="Компонент_7_1" data-name="Компонент 7 – 1" transform="translate(24 16)">
+    <g id="Финансы" transform="translate(-312 -342)">
+      <g transform="matrix(1, 0, 0, 1, 288, 326)" filter="url(#Прямоугольник_12)">
+        <rect id="Прямоугольник_12-2" data-name="Прямоугольник 12" width="336" height="218" rx="16" transform="translate(24 16)" fill="none" opacity="0.4"/>
+      </g>
+      <g id="Сгруппировать_44" data-name="Сгруппировать 44">
+        <g id="Финансы-2" data-name="Финансы">
+          <text id="Бддс" transform="translate(312 361)" fill="#666f80" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">БДДС</tspan></text>
+        </g>
+        <path id="Контур_49" data-name="Контур 49" d="M2695,320l8,8-8,8" transform="translate(-2055 24)" fill="none" stroke="#666f80" stroke-linecap="round" stroke-width="2"/>
+      </g>
+      <rect id="Прямоугольник_18" data-name="Прямоугольник 18" width="160" height="72" rx="8" transform="translate(312 488)" fill="#677081" opacity="0.05"/>
+      <rect id="Прямоугольник_21" data-name="Прямоугольник 21" width="160" height="72" rx="8" transform="translate(312 400)" fill="#677081" opacity="0.05"/>
+      <rect id="Прямоугольник_22" data-name="Прямоугольник 22" width="64" height="12" rx="6" transform="translate(360 380)" fill="#677081" opacity="0.05"/>
+      <rect id="Прямоугольник_23" data-name="Прямоугольник 23" width="64" height="12" rx="6" transform="translate(536 380)" fill="#677081" opacity="0.05"/>
+      <rect id="Прямоугольник_19" data-name="Прямоугольник 19" width="160" height="72" rx="8" transform="translate(488 488)" fill="#677081" opacity="0.05"/>
+      <rect id="Прямоугольник_20" data-name="Прямоугольник 20" width="160" height="72" rx="8" transform="translate(488 400)" fill="#677081" opacity="0.05"/>
+    </g>
+    <g id="Сгруппировать_30" data-name="Сгруппировать 30" transform="translate(-120 -398)">
+      <path id="Контур_20" data-name="Контур 20" d="M2495,456.727c-12.491,0-36.656,26.182-45.714,26.182S2434.216,448,2427.953,448s-11.994,43.636-21.333,43.636-9.031-8.727-18.286-8.727S2367,496,2367,496h128Z" transform="translate(-2055 24)" opacity="0.1" fill="url(#linear-gradient)"/>
+      <path id="Контур_19" data-name="Контур 19" d="M2367,496s12.3-13.091,21.333-13.091,8.969,8.727,18.286,8.727S2421.859,448,2427.953,448s12.831,34.909,21.333,34.909,33.223-26.182,45.714-26.182" transform="translate(-2055 24)" fill="none" stroke="#ff3a33" stroke-width="2"/>
+    </g>
+    <g id="Сгруппировать_51" data-name="Сгруппировать 51" transform="translate(192 156.5)" opacity="0.8">
+      <line id="Линия_1" data-name="Линия 1" x1="128" transform="translate(0 0.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_2" data-name="Линия 2" x1="128" transform="translate(0 8.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_3" data-name="Линия 3" x2="128" transform="translate(0 17.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_4" data-name="Линия 4" x1="128" transform="translate(0 26.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_5" data-name="Линия 5" x2="128" transform="translate(0 35.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_6" data-name="Линия 6" x1="128" transform="translate(0 44.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_7" data-name="Линия 7" x2="128" transform="translate(0 53.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+    </g>
+    <g id="Сгруппировать_52" data-name="Сгруппировать 52" transform="translate(192 154)">
+      <path id="Контур_58" data-name="Контур 58" d="M2559,3533s15.909-17.59,24-17.667,16.386,9.2,24,8.833,15.642-35.333,24-35.333,8.355,35.464,16,35.333,32.119-43.779,40-44.167" transform="translate(-2559 -3477)" fill="none" stroke="#5fe61b" stroke-width="2"/>
+      <circle id="Эллипс_29" data-name="Эллипс 29" cx="3" cy="3" r="3" transform="translate(21 36)" fill="#5fe61b"/>
+      <circle id="Эллипс_30" data-name="Эллипс 30" cx="3" cy="3" r="3" transform="translate(45 45)" fill="#5fe61b"/>
+      <circle id="Эллипс_31" data-name="Эллипс 31" cx="3" cy="3" r="3" transform="translate(69 9)" fill="#5fe61b"/>
+      <circle id="Эллипс_32" data-name="Эллипс 32" cx="3" cy="3" r="3" transform="translate(85 45)" fill="#5fe61b"/>
+      <circle id="Эллипс_33" data-name="Эллипс 33" cx="3" cy="3" r="3" transform="translate(125)" fill="#5fe61b"/>
+    </g>
+    <g id="Сгруппировать_53" data-name="Сгруппировать 53" transform="translate(192 170)">
+      <path id="Контур_58-2" data-name="Контур 58" d="M2559,3533s15.9-4.9,23.993-4.983S2599.386,3496.386,2607,3496,2622.642,3533,2631,3533s8.355-27.609,16-27.746,32.119,18.9,40,18.5" transform="translate(-2559 -3493)" fill="none" stroke="#ff3a33" stroke-width="2"/>
+      <circle id="Эллипс_29-2" data-name="Эллипс 29" cx="3" cy="3" r="3" transform="translate(21 32)" fill="#ff3a33"/>
+      <circle id="Эллипс_30-2" data-name="Эллипс 30" cx="3" cy="3" r="3" transform="translate(45)" fill="#ff3a33"/>
+      <circle id="Эллипс_31-2" data-name="Эллипс 31" cx="3" cy="3" r="3" transform="translate(69 37)" fill="#ff3a33"/>
+      <circle id="Эллипс_32-2" data-name="Эллипс 32" cx="3" cy="3" r="3" transform="translate(85 9)" fill="#ff3a33"/>
+      <circle id="Эллипс_33-2" data-name="Эллипс 33" cx="3" cy="3" r="3" transform="translate(125 28)" fill="#ff3a33"/>
+    </g>
+    <g id="Сгруппировать_47" data-name="Сгруппировать 47" transform="translate(16 68.5)" opacity="0.8">
+      <line id="Линия_1-2" data-name="Линия 1" x1="128" transform="translate(0 0.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_2-2" data-name="Линия 2" x1="128" transform="translate(0 8.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_3-2" data-name="Линия 3" x2="128" transform="translate(0 17.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_4-2" data-name="Линия 4" x1="128" transform="translate(0 26.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_5-2" data-name="Линия 5" x2="128" transform="translate(0 35.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_6-2" data-name="Линия 6" x1="128" transform="translate(0 44.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_7-2" data-name="Линия 7" x2="128" transform="translate(0 53.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+    </g>
+    <g id="Сгруппировать_48" data-name="Сгруппировать 48" transform="translate(192 68.5)" opacity="0.8">
+      <line id="Линия_1-3" data-name="Линия 1" x1="128" transform="translate(0 0.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_2-3" data-name="Линия 2" x1="128" transform="translate(0 8.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_3-3" data-name="Линия 3" x2="128" transform="translate(0 17.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_4-3" data-name="Линия 4" x1="128" transform="translate(0 26.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_5-3" data-name="Линия 5" x2="128" transform="translate(0 35.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_6-3" data-name="Линия 6" x1="128" transform="translate(0 44.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_7-3" data-name="Линия 7" x2="128" transform="translate(0 53.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+    </g>
+    <g id="Сгруппировать_49" data-name="Сгруппировать 49" transform="translate(16 156.5)" opacity="0.8">
+      <line id="Линия_1-4" data-name="Линия 1" x1="128" transform="translate(0 0.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_2-4" data-name="Линия 2" x1="128" transform="translate(0 8.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_3-4" data-name="Линия 3" x2="128" transform="translate(0 17.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_4-4" data-name="Линия 4" x1="128" transform="translate(0 26.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_5-4" data-name="Линия 5" x2="128" transform="translate(0 35.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_6-4" data-name="Линия 6" x1="128" transform="translate(0 44.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+      <line id="Линия_7-4" data-name="Линия 7" x2="128" transform="translate(0 53.5)" fill="none" stroke="#666f80" stroke-width="1" opacity="0.1"/>
+    </g>
+    <g id="Сгруппировать_26" data-name="Сгруппировать 26" transform="translate(-296 -390)">
+      <path id="Контур_19-2" data-name="Контур 19" d="M2367,488s6.126-16,12.19-16,17.866,8,24.381,8,14.621-20.175,24.381-20,21.079,4,30.476,4,24.08-24,36.571-24" transform="translate(-2055 24)" fill="none" stroke="#61e420" stroke-width="2"/>
+      <path id="Контур_20-2" data-name="Контур 20" d="M2495,440c-12.491,0-27.175,24-36.571,24s-20.716-3.825-30.476-4-17.866,20-24.381,20-18.316-8-24.381-8S2367,488,2367,488h128Z" transform="translate(-2055 24)" opacity="0.1" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="Полоски" transform="translate(16 -17.408)">
+      <path id="Прямоугольник_9" data-name="Прямоугольник 9" d="M4,0H7a4,4,0,0,1,4,4V16a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(0 211.408)" fill="#5fe61b"/>
+      <path id="Прямоугольник_10" data-name="Прямоугольник 10" d="M4,0H7a4,4,0,0,1,4,4V18a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(15 209.408)" fill="#ff3a33"/>
+      <path id="Прямоугольник_9-2" data-name="Прямоугольник 9" d="M4,0H7a4,4,0,0,1,4,4V16a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(34 211.408)" fill="#5fe61b"/>
+      <path id="Прямоугольник_10-2" data-name="Прямоугольник 10" d="M4,0H7a4,4,0,0,1,4,4V18a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(49 209.408)" fill="#ff3a33"/>
+      <path id="Прямоугольник_9-3" data-name="Прямоугольник 9" d="M4,0H7a4,4,0,0,1,4,4V29a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(68 198.408)" fill="#5fe61b"/>
+      <path id="Прямоугольник_10-3" data-name="Прямоугольник 10" d="M4,0H7a4,4,0,0,1,4,4V30a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(83 197.408)" fill="#ff3a33"/>
+      <path id="Прямоугольник_9-4" data-name="Прямоугольник 9" d="M4,0H7a4,4,0,0,1,4,4V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(102 179.408)" fill="#5fe61b"/>
+      <path id="Прямоугольник_10-4" data-name="Прямоугольник 10" d="M4,0H7a4,4,0,0,1,4,4V30a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(117 197.408)" fill="#ff3a33"/>
+    </g>
+  </g>
+</svg>
